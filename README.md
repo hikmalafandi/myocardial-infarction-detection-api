@@ -1,1 +1,0 @@
-# myocardial-infarction-detection-api
